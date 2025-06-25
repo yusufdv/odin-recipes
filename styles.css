@@ -1,0 +1,33 @@
+.body {
+    width: 40%;
+    margin: auto;
+    background-color: fefefe;
+}
+
+p, li {
+  font-family: Century;
+    font-style: italic;
+    font-size: 16px;
+    line-height: 22px;
+    color:#5d6063 ;
+}
+
+h1, h2, h3 {
+    font-family: Century;
+    font-style: italic;
+    line-height: 17px;
+    color:#7a8bc7 ;
+}
+
+a {
+    font-family: Century;
+    font-style: italic;
+    line-height: 17px;
+    color:#b19c25 ;
+}
+
+section {
+    background-color: transparent;
+    background-clip: border-box ;
+   
+}
