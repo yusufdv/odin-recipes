@@ -27,7 +27,21 @@ a {
 }
 
 section {
-    background-color: transparent;
-    background-clip: border-box ;
-   
+    border: 2px solid #bcccdc;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px 0;
+    max-width: 800px; /* Optional: control box width */
+    background-clip: border-box;
+
+    background-color: #ffffff;
+    box-shadow: 0 4px 5px rgba(94, 94, 94, 0.1);
 }
+
+.modified-imgs {
+    width:150px;
+    height: auto;
+    float: left;
+    margin-right:5px;
+}
+
